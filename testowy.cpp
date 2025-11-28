@@ -6,5 +6,7 @@ int main() {
     cout << "Wersja podstawowa" << endl;
     int a=5, b=10;
     cout<<"wynik dodawania: "<<a+b<<endl;
+    
+    cout<<"dagaeg";
     return 0;
 }
